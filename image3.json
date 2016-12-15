@@ -1,0 +1,8 @@
+{
+    "type": "inboundMedia",
+    "payload": "http://www.scala-lang.org/files/archive/api/2.9.0/lib/trait_big.png",
+    "fromNumber": "+13237463190",
+    "toNumber": "+14432304720",
+    "burnerId": "79f8c5be-5721-4b99-ab45-bd96114fd78e",
+    "userId": "c0ca0fbf-8151-40db-afc8-7eab4cbe9ff5"
+}

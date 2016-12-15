@@ -1,0 +1,2 @@
+GET			/report		controllers.Api.report
+POST		/event		controllers.Api.event
