@@ -15,3 +15,6 @@ scalacOptions in Compile := Vector(
   "-Ywarn-numeric-widen")
 
 libraryDependencies += ws
+libraryDependencies ++= Seq("org.specs2" %% "specs2-core" % "3.8.+" % "test")
+libraryDependencies ++= Seq("org.specs2" %% "specs2-mock" % "3.8.+" % "test")
+libraryDependencies ++= Seq("org.specs2" %% "specs2-junit" % "3.8.+" % "test")
